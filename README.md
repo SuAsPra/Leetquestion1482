@@ -1,5 +1,5 @@
 # Leetquestion1482
-Simple and good questions from leetcode for reference
+'''Simple and good questions from leetcode for reference
 You are given an integer array bloomDay, an integer m and an integer k.
 
 You want to make m bouquets. To make a bouquet, you need to use k adjacent flowers from the garden.
@@ -43,3 +43,4 @@ bloomDay.length == n
 1 <= bloomDay[i] <= 109
 1 <= m <= 106
 1 <= k <= n
+'''
